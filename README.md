@@ -20,7 +20,7 @@
   </p>
 <p align="center"><img src="https://github.com/Ashish2030/Todo-List-Javascript/blob/master/Video/ezgif.com-gif-maker.gif"></p>
 <p align="center">
-    <a href="https://github.com/Ashish2030/Todo-List-Javascript" target="blank">View Demo</a>
+    <a href="https://ashish2030.github.io/Todo-List-Javascript/" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Todo-List-Javascript/issues/new/choose">Report Bug</a>
     ·
