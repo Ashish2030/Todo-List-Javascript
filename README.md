@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Todo-List-Javascript?style=flat-square" alt="Todo-List-Javascript"/>
 </a>
   </p>
-<p align="center"><img src="https://github.com/Ashish2030/Todo-List-Javascript/blob/master/Video/video.mp4" ></p>
+<p align="center"><img src="https://github.com/Ashish2030/Todo-List-Javascript/blob/master/Video/ezgif.com-gif-maker.gif"></p>
 <p align="center">
     <a href="https://github.com/Ashish2030/Todo-List-Javascript" target="blank">View Demo</a>
     ·
