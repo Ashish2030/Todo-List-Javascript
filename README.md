@@ -19,6 +19,9 @@
 </a>
   </p>
   
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Todo-List-Javascript)](https://github.com/ashish2030/Todo-List-Javascript/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Todo-List-Javascript)](https://github.com/ashish2030/Todo-List-Javascript/archive/master.zip)
+ 
 https://user-images.githubusercontent.com/61516051/117411721-85eb9800-af31-11eb-9c44-2e73c37e750d.mp4
 
 <p align="center">
